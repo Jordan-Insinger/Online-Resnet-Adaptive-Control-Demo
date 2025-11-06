@@ -2,4 +2,4 @@
 
 ![](Docs/resnet_plot.png)
 
-![](Docs/resnet_plot.mp4)
+![](Docs/resnet_demo.mp4)
